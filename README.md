@@ -6,4 +6,4 @@ The concept originated in the 1976 arcade game Blockade, and the ease of impleme
 # GAME PLAY
 * Move the mouse keys to direct snake to eat and grow.
 
-* run game: [Snake Game](snake_game.html)
+* run game: [Snake Game](https://raw.githack.com/Jematormal91/JS_snake-game/24588f3b25d774be583256c550384ceb5b70204a/snake_game.html)
