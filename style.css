@@ -1,0 +1,19 @@
+html, body {
+  height: 100%;
+}
+
+h1, h3{
+  color: white;
+  align-items: center;
+  justify-content: center;
+}
+
+body {
+  background: black;
+  align-items: center;
+  justify-content: center;
+  padding: 50px;
+}
+canvas {
+  border: 1px solid white;
+}
